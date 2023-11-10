@@ -57,7 +57,7 @@ where $`\ k_0 `$  and $`\ k_{m+n+1}  `$ are the lower and upper bounds of the pa
 
 #### template
 
-![Alt text](result.png)
+![Alt text](res.png)
 
 
 ### Application
