@@ -55,6 +55,9 @@ where $`\ k_0 `$  and $`\ k_{m+n+1}  `$ are the lower and upper bounds of the pa
 
 - End Conditions: At the end of the knot vector, the B-spline curve should reach the last control point. If you change the condition to be inclusive at the end of the interval, it might cause unexpected behavior at the ends of the curve, especially since the last point of the curve is defined by the last control point and the last non-zero basis functions.
 
+#### template
+
+![Alt text](result.png)
 
 
 ### Application
